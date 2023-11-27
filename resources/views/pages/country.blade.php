@@ -9,8 +9,17 @@
 
 @section('wrapper')
     <div class="page-wrapper">
+        <div class="mb-5">
+            <a href="/" class="header-links nav-nav-map me-3" href="">
+               الرئيسية
+               /<span>
+                <a>شركات التداول بالسعودية</a>
+            </span>
+            </a>
+        </div>
         <div class="page-content">
-            <div class="mt-2">
+            
+            <div>
                 <a class="header-links me-3" href="">
                     <img src="assets/images/icons/target.svg" alt="" />
                     منهجية أهداف الاستثمار
@@ -58,7 +67,8 @@
             </div>
 
             <div class="row">
-                <h5 class="col-10">هل تبحث عن الشركات التداول الموثوقة في السعودية؟ إذا كانت الإجابة نعم، فأنت في المكان
+                <h5 class="col-12 mb-5">هل تبحث عن الشركات التداول الموثوقة في السعودية؟ إذا كانت الإجابة نعم، فأنت في
+                    المكان
                     الصحيح! في هذا
                     المقال، سنكشف لك عن أفضل شركات التداول المرخصة في السعودية، ونقدم لك جميع التفاصيل التي تحتاج إليها
                     لاتخاذ قرار استثماري موثوق ومدروس. سواء كنت مبتدئًا في عالم التداول أو مستثمرًا محترفًا، ستجد هنا قائمة
@@ -67,186 +77,22 @@
                 </h5>
             </div>
 
-            <div class="row my-5">
-                <div class="col-12">
-                    <div class="card radius-15 w-100">
-                        <div class="card-body">
-                            <div class="row">
-                                <div class="col-lg-4 col-md-6 col-sm-12 text-center mt-3">
-                                    <div class="d-flex-column">
-                                        <img src="assets/images/compaines-logos/AvaTrade-Logo 1.png" alt="" />
-                                        <div class="my-2">
-                                            <span class="material-symbols-outlined checked">stars</span>
-                                            <span class="material-symbols-outlined checked">stars</span>
-                                            <span class="material-symbols-outlined checked">stars</span>
-                                            <span class="material-symbols-outlined checked">stars</span>
-                                            <span class="material-symbols-outlined">stars</span>
-                                        </div>
-                                        <p class="mb-0 font-13 "><span class="text-success mx-2">4/5</span>عدد التقييمات: 26
-                                        </p>
-                                    </div>
-                                </div>
 
-                                <div class="col-lg-4 col-md-6 col-sm-12 align-items-center text-right line-cards  mt-4">
-
-                                    <div class="d-flex mt-3">
-                                        <span class="material-symbols-outlined cards-check text-success">beenhere</span>
-                                        <p class="cards-check-content ms-2">FCA, CYSEC, CNMV, KNF, DFSA</p>
-                                    </div>
-                                    <div class="d-flex">
-                                        <span class="material-symbols-outlined cards-check text-success">beenhere</span>
-                                        <p class="cards-check-content ms-2">ايداع نقدي سريع وسهل</p>
-                                    </div>
-
-                                    <div class="d-flex">
-                                        <span class="material-symbols-outlined cards-check text-success">beenhere</span>
-                                        <p class="cards-check-content ms-2">خوارزميات تداول متقدمة</p>
-                                    </div>
-                                </div>
-
-                                <div class="col-lg-4 col-md-6 col-sm-12 align-items-center text-center">
-                                    <p class="me-5 mt-3">درجة الامان: <span>مرتفعة</span>
-
-                                    <div class="progress blue mb-5">
-
-                                        <span class="progress-left"><span class="progress-bar"></span></span>
-
-                                        <span class="progress-right"><span class="progress-bar"></span></span>
-
-                                        <div class="progress-value">90%</div>
-
-                                    </div>
-
-                                    </p>
-                                    <a href="/#" style="font-size:small;" class="btn buttons  text-white my-1">فتح
-                                        حساب</a>
-                                    <a href="/company" style="font-size:small;" class="btn buttons  text-white my-2">ملف
-                                        الشركة</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="card-footer mt-1">
-                            <div class="row d-flex justify-content-center align-items-center">
-                                <div class="col-lg-3 col-md-3 col-sm-12 d-flex mt-1">
-                                    <span
-                                        class="material-symbols-outlined icon-color cards-footer-icons me-2">mobile_friendly</span>
-                                    <p class="cards-footer-content">تطبيق الهاتف المحمول</p>
-                                </div>
-
-                                <div class="col-lg-4 col-md-3 col-sm-12 d-flex mt-1 mx-4">
-                                    <span
-                                        class="material-symbols-outlined icon-color cards-footer-icons me-2">account_balance_wallet</span>
-                                    <p class="cards-footer-content">الحد الادنى للايداع: 25 دولارا</p>
-                                </div>
-
-                                <div class="col-lg-3 col-md-3 col-sm-12 d-flex mt-1">
-                                    <span
-                                        class="material-symbols-outlined icon-color cards-footer-icons me-2">bar_chart_4_bars</span>
-                                    <p class="cards-footer-content">عدد الأصول: 3700+</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12">
-                    <div class="card radius-15 w-100">
-                        <div class="card-body">
-                            <div class="row">
-                                <div class="col-lg-4 col-md-6 col-sm-12 text-center mt-3">
-                                    <div class="d-flex-column">
-                                        <img src="assets/images/compaines-logos/AvaTrade-Logo 1.png" alt="" />
-                                        <div class="my-2">
-                                            <span class="material-symbols-outlined checked">stars</span>
-                                            <span class="material-symbols-outlined checked">stars</span>
-                                            <span class="material-symbols-outlined checked">stars</span>
-                                            <span class="material-symbols-outlined checked">stars</span>
-                                            <span class="material-symbols-outlined">stars</span>
-                                        </div>
-                                        <p class="mb-0 font-13 "><span class="text-success mx-2">4/5</span>عدد التقييمات:
-                                            26
-                                        </p>
-                                    </div>
-                                </div>
-
-                                <div class="col-lg-4 col-md-6 col-sm-12 align-items-center text-right line-cards  mt-4">
-
-                                    <div class="d-flex mt-3">
-                                        <span class="material-symbols-outlined cards-check text-success">beenhere</span>
-                                        <p class="cards-check-content ms-2">FCA, CYSEC, CNMV, KNF, DFSA</p>
-                                    </div>
-                                    <div class="d-flex">
-                                        <span class="material-symbols-outlined cards-check text-success">beenhere</span>
-                                        <p class="cards-check-content ms-2">ايداع نقدي سريع وسهل</p>
-                                    </div>
-
-                                    <div class="d-flex">
-                                        <span class="material-symbols-outlined cards-check text-success">beenhere</span>
-                                        <p class="cards-check-content ms-2">خوارزميات تداول متقدمة</p>
-                                    </div>
-                                </div>
-
-                                <div class="col-lg-4 col-md-6 col-sm-12 align-items-center text-center">
-                                    <p class="me-5 mt-3">درجة الامان: <span>مرتفعة</span>
-
-                                    <div class="progress blue mb-5">
-
-                                        <span class="progress-left"><span class="progress-bar"></span></span>
-
-                                        <span class="progress-right"><span class="progress-bar"></span></span>
-
-                                        <div class="progress-value">90%</div>
-
-                                    </div>
-
-                                    </p>
-                                    <a href="/#" style="font-size:small;" class="btn buttons  text-white my-1">فتح
-                                        حساب</a>
-                                    <a href="/company" style="font-size:small;" class="btn buttons  text-white my-2">ملف
-                                        الشركة</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="card-footer mt-1">
-                            <div class="row d-flex justify-content-center align-items-center">
-                                <div class="col-lg-3 col-md-3 col-sm-12 d-flex mt-1">
-                                    <span
-                                        class="material-symbols-outlined icon-color cards-footer-icons me-2">mobile_friendly</span>
-                                    <p class="cards-footer-content">تطبيق الهاتف المحمول</p>
-                                </div>
-
-                                <div class="col-lg-4 col-md-3 col-sm-12 d-flex mt-1 mx-4">
-                                    <span
-                                        class="material-symbols-outlined icon-color cards-footer-icons me-2">account_balance_wallet</span>
-                                    <p class="cards-footer-content">الحد الادنى للايداع: 25 دولارا</p>
-                                </div>
-
-                                <div class="col-lg-3 col-md-3 col-sm-12 d-flex mt-1">
-                                    <span
-                                        class="material-symbols-outlined icon-color cards-footer-icons me-2">bar_chart_4_bars</span>
-                                    <p class="cards-footer-content">عدد الأصول: 3700+</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
 
             <div class="row">
-                <h1>وسطاء فوركس المميزون </h1>
+                <h1 class="mt-5">وسطاء فوركس المميزون </h1>
                 <div class="table-responsive my-5">
                     <table class="table mb-0">
                         <tbody>
-                            <tr>
+                            <tr class="border-bottom border-dark">
                                 <th scope="row">1</th>
-                                <td>
+                                <td class="border-bottom border-dark">
                                     <img src="{{ asset('assets/images/avatars/avatar-1.png') }}" width="25"
                                         height="25" class="rounded-circle me-2" alt="">
                                     RoboForex
                                 </td>
                                 <td class="d-flex">
-                                    3/5
+                                    <p>درجة الامان: <span class="text-success">مرتفعة</span></p>
                                     <div class="ms-2">
                                         <span class="material-symbols-outlined checked">stars</span>
                                         <span class="material-symbols-outlined checked">stars</span>
@@ -256,7 +102,7 @@
                                     </div>
                                 </td>
 
-                                <td>
+                                <td class="border-bottom border-dark">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="13"
                                         viewBox="0 0 14 13" fill="none">
                                         <path
@@ -265,17 +111,18 @@
                                     </svg>
                                     10$
                                 </td>
-                                <td><a class="btn btn-success shadow px-5 py-0">ابدأ الان</a></td>
+                                <td class="border-bottom border-dark"><a class="btn btn-success shadow px-5 py-0">ابدأ
+                                        الان</a></td>
                             </tr>
-                            <tr>
+                            <tr class="border-bottom border-dark">
                                 <th scope="row">1</th>
-                                <td>
+                                <td class="border-bottom border-dark">
                                     <img src="{{ asset('assets/images/avatars/avatar-1.png') }}" width="25"
                                         height="25" class="rounded-circle me-2" alt="">
                                     RoboForex
                                 </td>
                                 <td class="d-flex">
-                                    3/5
+                                    <p>درجة الامان: <span class="text-success">مرتفعة</span></p>
                                     <div class="ms-2">
                                         <span class="material-symbols-outlined checked">stars</span>
                                         <span class="material-symbols-outlined checked">stars</span>
@@ -285,7 +132,7 @@
                                     </div>
                                 </td>
 
-                                <td>
+                                <td class="border-bottom border-dark">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="13"
                                         viewBox="0 0 14 13" fill="none">
                                         <path
@@ -294,17 +141,18 @@
                                     </svg>
                                     10$
                                 </td>
-                                <td><a class="btn btn-success shadow px-5 py-0">ابدأ الان</a></td>
+                                <td class="border-bottom border-dark"><a class="btn btn-success shadow px-5 py-0">ابدأ
+                                        الان</a></td>
                             </tr>
-                            <tr>
+                            <tr class="border-bottom border-dark">
                                 <th scope="row">1</th>
-                                <td>
+                                <td class="border-bottom border-dark">
                                     <img src="{{ asset('assets/images/avatars/avatar-1.png') }}" width="25"
                                         height="25" class="rounded-circle me-2" alt="">
                                     RoboForex
                                 </td>
                                 <td class="d-flex">
-                                    3/5
+                                    <p>درجة الامان: <span class="text-success">مرتفعة</span></p>
                                     <div class="ms-2">
                                         <span class="material-symbols-outlined checked">stars</span>
                                         <span class="material-symbols-outlined checked">stars</span>
@@ -314,7 +162,7 @@
                                     </div>
                                 </td>
 
-                                <td>
+                                <td class="border-bottom border-dark">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="13"
                                         viewBox="0 0 14 13" fill="none">
                                         <path
@@ -323,17 +171,18 @@
                                     </svg>
                                     10$
                                 </td>
-                                <td><a class="btn btn-success shadow px-5 py-0">ابدأ الان</a></td>
+                                <td class="border-bottom border-dark"><a class="btn btn-success shadow px-5 py-0">ابدأ
+                                        الان</a></td>
                             </tr>
-                            <tr>
+                            <tr class="border-bottom border-dark">
                                 <th scope="row">1</th>
-                                <td>
+                                <td class="border-bottom border-dark">
                                     <img src="{{ asset('assets/images/avatars/avatar-1.png') }}" width="25"
                                         height="25" class="rounded-circle me-2" alt="">
                                     RoboForex
                                 </td>
                                 <td class="d-flex">
-                                    3/5
+                                    <p>درجة الامان: <span class="text-success">مرتفعة</span></p>
                                     <div class="ms-2">
                                         <span class="material-symbols-outlined checked">stars</span>
                                         <span class="material-symbols-outlined checked">stars</span>
@@ -343,7 +192,7 @@
                                     </div>
                                 </td>
 
-                                <td>
+                                <td class="border-bottom border-dark">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="13"
                                         viewBox="0 0 14 13" fill="none">
                                         <path
@@ -352,7 +201,8 @@
                                     </svg>
                                     10$
                                 </td>
-                                <td><a class="btn btn-success shadow px-5 py-0">ابدأ الان</a></td>
+                                <td class="border-bottom border-dark"><a class="btn btn-success shadow px-5 py-0">ابدأ
+                                        الان</a></td>
                             </tr>
                         </tbody>
                     </table>
@@ -417,6 +267,8 @@
                 </div>
             </div>
 
+           
+
             <div class="row">
                 <div class="label my-5">
                     <h2 class="text-wrapper">التداول في السعودية: الفرق بين السوق المحلي والسوق العالمي</h2>
@@ -450,6 +302,8 @@
                     </div>
                 </div>
             </div>
+
+         
 
             <div class="row">
                 <div class="label my-5">
@@ -556,75 +410,169 @@
             </div>
 
             <div class="row">
-                <h1 class="Hero-h1 my-5">الاسئلة الاكثر تكرارا</h1>
-                <div class="card">
-                    <div class="card-body">
-                        <div class="accordion" id="accordionExample">
-
-                            <div class="accordion-item ">
-                                <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        لماذا من الضروري أن يكون لديك وسيط؟
-                                    </button>
-                                </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse show"
-                                    aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <p>هناك حاجة إلى وسطاء لأن أسواق الأوراق المالية لن تقبل إلا الطلبات من
-                                            أعضاء
-                                            البورصة - حيث يقوم الوسطاء بترتيب المعاملات بين المشتري والبائع. إنهم
-                                            يحصلون على
-                                            عمولة بعد تنفيذ الصفقة (على الرغم من أنهم يختارون في بعض الأحيان تخفيض
-                                            أو حتى
-                                            إلغاء الرسوم لبعض منتجات التداول).</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        ما الذي تبحث عنه في الوسيط؟
-                                    </button>
-                                </h2>
-                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <p>That's so cute. Can we have Bender Burgers again? Is the Space Pope
-                                            reptilian!? I wish! It's a nickel. Bender! Ship! Stop bickering or I'm
-                                            going
-                                            to come back there and change your opinions manually!</p>
-                                        <p><strong>Example: </strong>Okay, I like a challenge. Is that a cooking
-                                            show?
-                                            No argument here.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseThree" aria-expanded="false"
-                                        aria-controls="collapseThree">
-                                        كيف تختار الوسيط؟
-                                    </button>
-                                </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse"
-                                    aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <p>As I have explained in my book 'Earth in the Balance', and the much more
-                                            popular 'Harry Potter and the Balance of Earth', we need to defend our
-                                            planet against pollution. Also dark wizards. Fry, you can't just sit
-                                            here in
-                                            the dark listening to classical music.</p>
-                                        <p><strong>Example: </strong>Actually, that's still true. Well, let's just
-                                            dump
-                                            it in the sewer and say we delivered it.</p>
-                                    </div>
-                                </div>
-                            </div>
-
+                <div class="inline-company my-5" id="inline-company">
+                    <header class="inline-company__header text-center my-4">
+                        <div class="inline-company-img col-12"><img loading="lazy" width="50%" height="50%"
+                                src="https://yaaqen.com/img/Evest-logo.svg" alt="شركة ايفست Evest"
+                                class="company-img mx-auto" title="شركة ايفست Evest"></div>
+                        <h3 class="my-5">شركة ايفست Evest</h3>
+                        <hr>
+                    </header>
+                    <div class="inline-company__content">
+                        <div class="inline-company__body">
+                            <p>تعتبر شركة ايفست من شركات التداول التي تقدم خدماتها في منطقة الشرق الأوسط ودول الخليج مع
+                                اهتمام كبير في تقديم خدمات تداول الأسهم بحسابات مميزة خالية من العمولات والروافع المالية عند
+                                طلب ذلك تفعيل ذلك للمتداول المتمرس بجانب تقديم ادوات مالية عديدة بجانب الأسهم مثل العملات
+                                الرقمية، العملات الأجنبية وتداول المعادن الثمينة.</p>
                         </div>
+                        <div class="inline-company__features d-flex my-5">
+                            <div class="inline-company__item">
+                                <h4>الميزات</h4>
+                                <ul class="feature-list pros">
+                                    <li>حسابات بنكية محلية في السعودية</li>
+                                    <li>مدراء حسابات ودورات تدريبية</li>
+                                    <li>أكاديمية تداول متقدمة جداً</li>
+                                </ul>
+                            </div>
+                            <div class="inline-company__item ms-5">
+                                <h4>العيوب</h4>
+                                <ul class="feature-list cons">
+                                    <li>ترخيص دولي فقط</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <footer class="inline-company__footer my-5">
+                        <p class="byline"><svg width="24" height="25" viewBox="0 0 24 25" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M22 11.3432V12.2632C21.9988 14.4197 21.3005 16.5179 20.0093 18.2451C18.7182 19.9722 16.9033 21.2357 14.8354 21.8471C12.7674 22.4586 10.5573 22.3851 8.53447 21.6378C6.51168 20.8905 4.78465 19.5093 3.61096 17.7003C2.43727 15.8913 1.87979 13.7513 2.02168 11.5996C2.16356 9.44781 2.99721 7.39957 4.39828 5.76032C5.79935 4.12107 7.69279 2.97863 9.79619 2.50339C11.8996 2.02816 14.1003 2.24558 16.07 3.12325"
+                                    stroke="#0AA435" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                </path>
+                                <path d="M22 4.26324L12 14.2732L9 11.2732" stroke="#0AA435" stroke-width="2"
+                                    stroke-linecap="round" stroke-linejoin="round"></path>
+                            </svg><span>سجل الآن عبر يقين وطالب ببونص يصل الى 20% على الايداع الأول</span></p>
+                        <p class="inline-company__cta"><a href="javascript:void(0);"
+                                onclick="if (!window.__cfRLUnblockHandlers) return false; showPopup(`ايفست Evest`)"
+                                rel="nofollow" class="font-weight-bold">فتح حساب مع ايفست Evest</a></p>
+                    </footer>
+                </div>
+                <div class="inline-company my-5" id="inline-company">
+                    <header class="inline-company__header text-center my-4">
+                        <div class="inline-company-img col-12"><img loading="lazy" width="50%" height="50%"
+                                src="https://yaaqen.com/img/AvaTrade-Logo.svg" alt="شركة ايفست Evest"
+                                class="company-img mx-auto" title="شركة ايفست Evest"></div>
+                        <h3 class="my-5">شركة ايفست Evest</h3>
+                        <hr>
+                    </header>
+                    <div class="inline-company__content">
+                        <div class="inline-company__body">
+                            <p>تعتبر شركة ايفست من شركات التداول التي تقدم خدماتها في منطقة الشرق الأوسط ودول الخليج مع
+                                اهتمام كبير في تقديم خدمات تداول الأسهم بحسابات مميزة خالية من العمولات والروافع المالية عند
+                                طلب ذلك تفعيل ذلك للمتداول المتمرس بجانب تقديم ادوات مالية عديدة بجانب الأسهم مثل العملات
+                                الرقمية، العملات الأجنبية وتداول المعادن الثمينة.</p>
+                        </div>
+                        <div class="inline-company__features d-flex my-5">
+                            <div class="inline-company__item">
+                                <h4>الميزات</h4>
+                                <ul class="feature-list pros">
+                                    <li>حسابات بنكية محلية في السعودية</li>
+                                    <li>مدراء حسابات ودورات تدريبية</li>
+                                    <li>أكاديمية تداول متقدمة جداً</li>
+                                </ul>
+                            </div>
+                            <div class="inline-company__item ms-5">
+                                <h4>العيوب</h4>
+                                <ul class="feature-list cons">
+                                    <li>ترخيص دولي فقط</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <footer class="inline-company__footer my-5">
+                        <p class="byline"><svg width="24" height="25" viewBox="0 0 24 25" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M22 11.3432V12.2632C21.9988 14.4197 21.3005 16.5179 20.0093 18.2451C18.7182 19.9722 16.9033 21.2357 14.8354 21.8471C12.7674 22.4586 10.5573 22.3851 8.53447 21.6378C6.51168 20.8905 4.78465 19.5093 3.61096 17.7003C2.43727 15.8913 1.87979 13.7513 2.02168 11.5996C2.16356 9.44781 2.99721 7.39957 4.39828 5.76032C5.79935 4.12107 7.69279 2.97863 9.79619 2.50339C11.8996 2.02816 14.1003 2.24558 16.07 3.12325"
+                                    stroke="#0AA435" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                </path>
+                                <path d="M22 4.26324L12 14.2732L9 11.2732" stroke="#0AA435" stroke-width="2"
+                                    stroke-linecap="round" stroke-linejoin="round"></path>
+                            </svg><span>سجل الآن عبر يقين وطالب ببونص يصل الى 20% على الايداع الأول</span></p>
+                        <p class="inline-company__cta"><a href="javascript:void(0);"
+                                onclick="if (!window.__cfRLUnblockHandlers) return false; showPopup(`ايفست Evest`)"
+                                rel="nofollow" class="font-weight-bold">فتح حساب مع ايفست Evest</a></p>
+                    </footer>
+                </div>
+            </div>
+
+            <div class="row">
+                <h1 class="Hero-h1 my-5">الاسئلة الاكثر تكرارا</h1>
+                <div>
+                    <div class="accordion" id="accordionExample">
+
+                        <div class="accordion-item my-4">
+                            <h2 class="accordion-header" id="headingOne">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    لماذا من الضروري أن يكون لديك وسيط؟
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <p>هناك حاجة إلى وسطاء لأن أسواق الأوراق المالية لن تقبل إلا الطلبات من
+                                        أعضاء
+                                        البورصة - حيث يقوم الوسطاء بترتيب المعاملات بين المشتري والبائع. إنهم
+                                        يحصلون على
+                                        عمولة بعد تنفيذ الصفقة (على الرغم من أنهم يختارون في بعض الأحيان تخفيض
+                                        أو حتى
+                                        إلغاء الرسوم لبعض منتجات التداول).</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item my-4">
+                            <h2 class="accordion-header" id="headingTwo">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    ما الذي تبحث عنه في الوسيط؟
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <p>That's so cute. Can we have Bender Burgers again? Is the Space Pope
+                                        reptilian!? I wish! It's a nickel. Bender! Ship! Stop bickering or I'm
+                                        going
+                                        to come back there and change your opinions manually!</p>
+                                    <p><strong>Example: </strong>Okay, I like a challenge. Is that a cooking
+                                        show?
+                                        No argument here.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item my-4">
+                            <h2 class="accordion-header" id="headingThree">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    كيف تختار الوسيط؟
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <p>As I have explained in my book 'Earth in the Balance', and the much more
+                                        popular 'Harry Potter and the Balance of Earth', we need to defend our
+                                        planet against pollution. Also dark wizards. Fry, you can't just sit
+                                        here in
+                                        the dark listening to classical music.</p>
+                                    <p><strong>Example: </strong>Actually, that's still true. Well, let's just
+                                        dump
+                                        it in the sewer and say we delivered it.</p>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>

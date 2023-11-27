@@ -10,17 +10,6 @@
 @section('wrapper')
     <div class="page-wrapper">
         <div class="page-content">
-            <div class="mt-2">
-                <a class="header-links me-3" href="">
-                    <img src="assets/images/icons/target.svg" alt="" />
-                    منهجية أهداف الاستثمار
-
-                </a>
-                <a class="header-links" href="">
-                    <img src="assets/images/icons/Vector.svg" alt="" />
-                    الكشف عن المعلن
-                </a>
-            </div>
 
             <div class="row">
                 <div class="col-12">
@@ -41,6 +30,7 @@
                                 <h5 class="card-title articles-font-styls text-dark mt-3">تداول عقود الفروقات على السلع: كل
                                     ماتريد معرفته</h5>
                             </a>
+                            <p class="mt-4">اسم الكاتب:  <span>basil abualoush</span></p>
                             <p class="card-text">
                                 <span class="material-symbols-outlined">calendar_month</span>
                                 <span class="date-articles articles-font-styls-date">2023-10-27</span>
@@ -58,6 +48,7 @@
                                 <h5 class="card-title articles-font-styls text-dark mt-3">تداول عقود الفروقات على السلع: كل
                                     ماتريد معرفته</h5>
                             </a>
+                            <p class="mt-4">اسم الكاتب:  <span>basil abualoush</span></p>
                             <p class="card-text">
                                 <span class="material-symbols-outlined">calendar_month</span>
                                 <span class="date-articles articles-font-styls-date">2023-10-27</span>
@@ -75,6 +66,7 @@
                                 <h5 class="card-title articles-font-styls text-dark mt-3">تداول عقود الفروقات على السلع: كل
                                     ماتريد معرفته</h5>
                             </a>
+                            <p class="mt-4">اسم الكاتب:  <span>basil abualoush</span></p>
                             <p class="card-text">
                                 <span class="material-symbols-outlined">calendar_month</span>
                                 <span class="date-articles articles-font-styls-date">2023-10-27</span>
@@ -92,6 +84,7 @@
                                 <h5 class="card-title articles-font-styls text-dark mt-3">تداول عقود الفروقات على السلع: كل
                                     ماتريد معرفته</h5>
                             </a>
+                            <p class="mt-4">اسم الكاتب:  <span>basil abualoush</span></p>
                             <p class="card-text">
                                 <span class="material-symbols-outlined">calendar_month</span>
                                 <span class="date-articles articles-font-styls-date">2023-10-27</span>
@@ -109,6 +102,7 @@
                                 <h5 class="card-title articles-font-styls text-dark mt-3">تداول عقود الفروقات على السلع: كل
                                     ماتريد معرفته</h5>
                             </a>
+                            <p class="mt-4">اسم الكاتب:  <span>basil abualoush</span></p>
                             <p class="card-text">
                                 <span class="material-symbols-outlined">calendar_month</span>
                                 <span class="date-articles articles-font-styls-date">2023-10-27</span>
@@ -126,245 +120,7 @@
                                 <h5 class="card-title articles-font-styls text-dark mt-3">تداول عقود الفروقات على السلع: كل
                                     ماتريد معرفته</h5>
                             </a>
-                            <p class="card-text">
-                                <span class="material-symbols-outlined">calendar_month</span>
-                                <span class="date-articles articles-font-styls-date">2023-10-27</span>
-                                <a href="#"><span class="float-end">
-                                        <i class="fadeIn animated bx bx-arrow-back bx-arrow-back-articles"></i>
-                                    </span></a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="d-flex col-lg-4 col-md-6 col-sm-12 my-4">
-                    <div class="card gradiant w-100 h-100">
-                        <div class="card-body text-dark">
-                            <a href="#">
-                                <h5 class="card-title articles-font-styls text-dark mt-3">تداول عقود الفروقات على السلع: كل
-                                    ماتريد معرفته</h5>
-                            </a>
-                            <p class="card-text">
-                                <span class="material-symbols-outlined">calendar_month</span>
-                                <span class="date-articles articles-font-styls-date">2023-10-27</span>
-                                <a href="#"><span class="float-end">
-                                        <i class="fadeIn animated bx bx-arrow-back bx-arrow-back-articles"></i>
-                                    </span></a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="d-flex col-lg-4 col-md-6 col-sm-12 my-4">
-                    <div class="card gradiant w-100 h-100">
-                        <div class="card-body text-dark">
-                            <a href="#">
-                                <h5 class="card-title articles-font-styls text-dark mt-3">تداول عقود الفروقات على السلع: كل
-                                    ماتريد معرفته</h5>
-                            </a>
-                            <p class="card-text">
-                                <span class="material-symbols-outlined">calendar_month</span>
-                                <span class="date-articles articles-font-styls-date">2023-10-27</span>
-                                <a href="#"><span class="float-end">
-                                        <i class="fadeIn animated bx bx-arrow-back bx-arrow-back-articles"></i>
-                                    </span></a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="d-flex col-lg-4 col-md-6 col-sm-12 my-4">
-                    <div class="card gradiant w-100 h-100">
-                        <div class="card-body text-dark">
-                            <a href="#">
-                                <h5 class="card-title articles-font-styls text-dark mt-3">تداول عقود الفروقات على السلع: كل
-                                    ماتريد معرفته</h5>
-                            </a>
-                            <p class="card-text">
-                                <span class="material-symbols-outlined">calendar_month</span>
-                                <span class="date-articles articles-font-styls-date">2023-10-27</span>
-                                <a href="#"><span class="float-end">
-                                        <i class="fadeIn animated bx bx-arrow-back bx-arrow-back-articles"></i>
-                                    </span></a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="d-flex col-lg-4 col-md-6 col-sm-12 my-4">
-                    <div class="card gradiant w-100 h-100">
-                        <div class="card-body text-dark">
-                            <a href="#">
-                                <h5 class="card-title articles-font-styls text-dark mt-3">تداول عقود الفروقات على السلع: كل
-                                    ماتريد معرفته</h5>
-                            </a>
-                            <p class="card-text">
-                                <span class="material-symbols-outlined">calendar_month</span>
-                                <span class="date-articles articles-font-styls-date">2023-10-27</span>
-                                <a href="#"><span class="float-end">
-                                        <i class="fadeIn animated bx bx-arrow-back bx-arrow-back-articles"></i>
-                                    </span></a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="d-flex col-lg-4 col-md-6 col-sm-12 my-4">
-                    <div class="card gradiant w-100 h-100">
-                        <div class="card-body text-dark">
-                            <a href="#">
-                                <h5 class="card-title articles-font-styls text-dark mt-3">تداول عقود الفروقات على السلع: كل
-                                    ماتريد معرفته</h5>
-                            </a>
-                            <p class="card-text">
-                                <span class="material-symbols-outlined">calendar_month</span>
-                                <span class="date-articles articles-font-styls-date">2023-10-27</span>
-                                <a href="#"><span class="float-end">
-                                        <i class="fadeIn animated bx bx-arrow-back bx-arrow-back-articles"></i>
-                                    </span></a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="d-flex col-lg-4 col-md-6 col-sm-12 my-4">
-                    <div class="card gradiant w-100 h-100">
-                        <div class="card-body text-dark">
-                            <a href="#">
-                                <h5 class="card-title articles-font-styls text-dark mt-3">تداول عقود الفروقات على السلع: كل
-                                    ماتريد معرفته</h5>
-                            </a>
-                            <p class="card-text">
-                                <span class="material-symbols-outlined">calendar_month</span>
-                                <span class="date-articles articles-font-styls-date">2023-10-27</span>
-                                <a href="#"><span class="float-end">
-                                        <i class="fadeIn animated bx bx-arrow-back bx-arrow-back-articles"></i>
-                                    </span></a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="d-flex col-lg-4 col-md-6 col-sm-12 my-4">
-                    <div class="card gradiant w-100 h-100">
-                        <div class="card-body text-dark">
-                            <a href="#">
-                                <h5 class="card-title articles-font-styls text-dark mt-3">تداول عقود الفروقات على السلع: كل
-                                    ماتريد معرفته</h5>
-                            </a>
-                            <p class="card-text">
-                                <span class="material-symbols-outlined">calendar_month</span>
-                                <span class="date-articles articles-font-styls-date">2023-10-27</span>
-                                <a href="#"><span class="float-end">
-                                        <i class="fadeIn animated bx bx-arrow-back bx-arrow-back-articles"></i>
-                                    </span></a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="d-flex col-lg-4 col-md-6 col-sm-12 my-4">
-                    <div class="card gradiant w-100 h-100">
-                        <div class="card-body text-dark">
-                            <a href="#">
-                                <h5 class="card-title articles-font-styls text-dark mt-3">تداول عقود الفروقات على السلع: كل
-                                    ماتريد معرفته</h5>
-                            </a>
-                            <p class="card-text">
-                                <span class="material-symbols-outlined">calendar_month</span>
-                                <span class="date-articles articles-font-styls-date">2023-10-27</span>
-                                <a href="#"><span class="float-end">
-                                        <i class="fadeIn animated bx bx-arrow-back bx-arrow-back-articles"></i>
-                                    </span></a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="d-flex col-lg-4 col-md-6 col-sm-12 my-4">
-                    <div class="card gradiant w-100 h-100">
-                        <div class="card-body text-dark">
-                            <a href="#">
-                                <h5 class="card-title articles-font-styls text-dark mt-3">تداول عقود الفروقات على السلع: كل
-                                    ماتريد معرفته</h5>
-                            </a>
-                            <p class="card-text">
-                                <span class="material-symbols-outlined">calendar_month</span>
-                                <span class="date-articles articles-font-styls-date">2023-10-27</span>
-                                <a href="#"><span class="float-end">
-                                        <i class="fadeIn animated bx bx-arrow-back bx-arrow-back-articles"></i>
-                                    </span></a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="d-flex col-lg-4 col-md-6 col-sm-12 my-4">
-                    <div class="card gradiant w-100 h-100">
-                        <div class="card-body text-dark">
-                            <a href="#">
-                                <h5 class="card-title articles-font-styls text-dark mt-3">تداول عقود الفروقات على السلع: كل
-                                    ماتريد معرفته</h5>
-                            </a>
-                            <p class="card-text">
-                                <span class="material-symbols-outlined">calendar_month</span>
-                                <span class="date-articles articles-font-styls-date">2023-10-27</span>
-                                <a href="#"><span class="float-end">
-                                        <i class="fadeIn animated bx bx-arrow-back bx-arrow-back-articles"></i>
-                                    </span></a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="d-flex col-lg-4 col-md-6 col-sm-12 my-4">
-                    <div class="card gradiant w-100 h-100">
-                        <div class="card-body text-dark">
-                            <a href="#">
-                                <h5 class="card-title articles-font-styls text-dark mt-3">تداول عقود الفروقات على السلع: كل
-                                    ماتريد معرفته</h5>
-                            </a>
-                            <p class="card-text">
-                                <span class="material-symbols-outlined">calendar_month</span>
-                                <span class="date-articles articles-font-styls-date">2023-10-27</span>
-                                <a href="#"><span class="float-end">
-                                        <i class="fadeIn animated bx bx-arrow-back bx-arrow-back-articles"></i>
-                                    </span></a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="d-flex col-lg-4 col-md-6 col-sm-12 my-4">
-                    <div class="card gradiant w-100 h-100">
-                        <div class="card-body text-dark">
-                            <a href="#">
-                                <h5 class="card-title articles-font-styls text-dark mt-3">تداول عقود الفروقات على السلع: كل
-                                    ماتريد معرفته</h5>
-                            </a>
-                            <p class="card-text">
-                                <span class="material-symbols-outlined">calendar_month</span>
-                                <span class="date-articles articles-font-styls-date">2023-10-27</span>
-                                <a href="#"><span class="float-end">
-                                        <i class="fadeIn animated bx bx-arrow-back bx-arrow-back-articles"></i>
-                                    </span></a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="d-flex col-lg-4 col-md-6 col-sm-12 my-4">
-                    <div class="card gradiant w-100 h-100">
-                        <div class="card-body text-dark">
-                            <a href="#">
-                                <h5 class="card-title articles-font-styls text-dark mt-3">تداول عقود الفروقات على السلع: كل
-                                    ماتريد معرفته</h5>
-                            </a>
-                            <p class="card-text">
-                                <span class="material-symbols-outlined">calendar_month</span>
-                                <span class="date-articles articles-font-styls-date">2023-10-27</span>
-                                <a href="#"><span class="float-end">
-                                        <i class="fadeIn animated bx bx-arrow-back bx-arrow-back-articles"></i>
-                                    </span></a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="d-flex col-lg-4 col-md-6 col-sm-12 my-4">
-                    <div class="card gradiant w-100 h-100">
-                        <div class="card-body text-dark">
-                            <a href="#">
-                                <h5 class="card-title articles-font-styls text-dark mt-3">تداول عقود الفروقات على السلع: كل
-                                    ماتريد معرفته</h5>
-                            </a>
+                            <p class="mt-4">اسم الكاتب:  <span>basil abualoush</span></p>
                             <p class="card-text">
                                 <span class="material-symbols-outlined">calendar_month</span>
                                 <span class="date-articles articles-font-styls-date">2023-10-27</span>

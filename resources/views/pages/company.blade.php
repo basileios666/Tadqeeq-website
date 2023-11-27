@@ -9,8 +9,18 @@
 
 @section('wrapper')
     <div class="page-wrapper">
+
+        <div class="mb-5">
+            <a href="/" class="header-links nav-nav-map me-3" href="">
+               الرئيسية
+               /<span>
+                <a>تقييم شركة AvaTrade</a>
+            </span>
+            </a>
+        </div>
+
         <div class="page-content">
-            <div class="mt-2">
+            <div>
                 <a class="header-links me-3" href="">
                     <img src="assets/images/icons/target.svg" alt="" />
                     منهجية أهداف الاستثمار
@@ -198,42 +208,37 @@
             </div>
 
             <div class="row">
-                <div class="card rounded my-5 p-4">
-                    <div class="card-title mt-2 d-flex">
-                        <h3>تقييم شركة افاتريد AvaTrade هو 4/5</h3>
-                    </div>
-                    <div class="row card-body">
-                        <h6 class="font-18 col-sm-12 col-md-12 col-lg-6 mt-5 me-5">تم تقييم شركة اكس تي بي XTB من قبل فريق
-                            ثقة بدرجة 4 من 5 كونها شركة
-                            تداول مرخصة في الامارات
-                            العربية المتحدة. تم زيارة مكاتب الشركة من قبل فريق عمل ثقة والتأكد من كونها شركة موجودة على أرض
-                            الواقع وتعمل بشكل قانوني بشكل كامل. أيضاً تقدم الشركة العديد من الخدمات المميزة التي لا يمكن
-                            الحصول عليها في شركات اخرى، بجانب كونها تقدم تيكنيلوجيا تداول متقدمة من خلال منصة xStation</h6>
-                        <img class="col-sm-12 col-md-6 col-lg-4 float-left mb-5 ms-3 mt-3"
-                            src="{{ asset('assets/images/gallery/document_8702083 1.png') }}" alt="img">
-
-                    </div>
-                </div>
+                <h3 class="mt-5">تقييم شركة افاتريد AvaTrade هو 4/5</h3>
+                <h6 class="font-18 my-4">تم تقييم شركة اكس تي بي XTB من قبل فريق
+                    ثقة بدرجة 4 من 5 كونها شركة
+                    تداول مرخصة في الامارات
+                    العربية المتحدة. تم زيارة مكاتب الشركة من قبل فريق عمل ثقة والتأكد من كونها شركة موجودة على أرض
+                    الواقع وتعمل بشكل قانوني بشكل كامل. أيضاً تقدم الشركة العديد من الخدمات المميزة التي لا يمكن
+                    الحصول عليها في شركات اخرى، بجانب كونها تقدم تيكنيلوجيا تداول متقدمة من خلال منصة xStation
+                </h6>
             </div>
 
+
             <div class="row">
-                <div class="card rounded my-5 p-1">
+                <div class="card rounded shadow-none my-5 p-1">
                     <img class="rounded"
                         src="{{ asset('assets/images/gallery/businessman-typing-computer-city-skyline-glowing-generated-by-ai.jpg') }}"
                         alt="">
                 </div>
+
                 <div class="row my-5">
                     <div class="card-body">
                         <div class="accordion" id="accordionExample">
                             <div class="accordion-item ">
                                 <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button shadow border-1" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    <button class="accordion-button shadow border-1" type="button"
+                                        data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true"
+                                        aria-controls="collapseOne">
                                         جدول المحتويات
                                     </button>
                                 </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                                    data-bs-parent="#accordionExample">
+                                <div id="collapseOne" class="accordion-collapse collapse show"
+                                    aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
                                         <h6>التداول في السعودية: الفرق بين السوق المحلي والسوق العالمي</h6>
                                         <ul>
@@ -309,50 +314,50 @@
 
             <div class="row">
                 <h1 class="my-5">الأسئلة الشائعة حول افاتريد AvaTrade</h1>
-                <div class="card">
-                    <div class="card-body">
-                        <div class="accordion" id="accordionExample">
 
-                            <div class="accordion-item ">
-                                <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                <div>
+                    <div class="accordion" id="accordionExample">
 
-                                        هل شركة AvaTrade مرخصة محلياً في العالم العربي؟
-                                    </button>
-                                </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse show"
-                                    aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <p>نعم تحمل شركة AvaTrade ترخيص ADGM من أبوظبي وهو من التراخيص القوية والرصينة في
-                                            منطقة الشرق الأوسط مما يسمح للشركة في التعامل مع العملاء في كافة دول الخليج بدون
-                                            أي قيود وأيضاً تعتبر شركة AvaTrade من الشركات التي تحمل أكثر من 5 تراخيص مختلفة
-                                            وقوية.</p>
-                                    </div>
+                        <div class="accordion-item my-4">
+                            <h2 class="accordion-header" id="headingOne">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+
+                                    هل شركة AvaTrade مرخصة محلياً في العالم العربي؟
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <p>نعم تحمل شركة AvaTrade ترخيص ADGM من أبوظبي وهو من التراخيص القوية والرصينة في
+                                        منطقة الشرق الأوسط مما يسمح للشركة في التعامل مع العملاء في كافة دول الخليج بدون
+                                        أي قيود وأيضاً تعتبر شركة AvaTrade من الشركات التي تحمل أكثر من 5 تراخيص مختلفة
+                                        وقوية.</p>
                                 </div>
                             </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        </div>
+                        <div class="accordion-item my-4">
+                            <h2 class="accordion-header" id="headingTwo">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
 
-                                        هل لدى شركة آفاتريد مكاتب محلية في الدول العربية؟
-                                    </button>
-                                </h2>
-                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <p>That's so cute. Can we have Bender Burgers again? Is the Space Pope
-                                            reptilian!? I wish! It's a nickel. Bender! Ship! Stop bickering or I'm going
-                                            to come back there and change your opinions manually!</p>
-                                        <p><strong>Example: </strong>Okay, I like a challenge. Is that a cooking show?
-                                            No argument here.</p>
-                                    </div>
+                                    هل لدى شركة آفاتريد مكاتب محلية في الدول العربية؟
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <p>That's so cute. Can we have Bender Burgers again? Is the Space Pope
+                                        reptilian!? I wish! It's a nickel. Bender! Ship! Stop bickering or I'm going
+                                        to come back there and change your opinions manually!</p>
+                                    <p><strong>Example: </strong>Okay, I like a challenge. Is that a cooking show?
+                                        No argument here.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
+
             </div>
 
             <div class="row">
@@ -366,7 +371,7 @@
                     <span class="material-symbols-outlined">stars</span>
                     <span class="material-symbols-outlined">stars</span>
                 </div>
-                <div class="card p-5 rounded">
+                <div class="p-5 rounded">
                     <div class="row">
                         <div class="col-sm-12 col-md-6 col-lg-6 mb-3">
                             <label for="inputEnterYourName" class="col-form-label">الاسم الكامل</label>

@@ -1,10 +1,15 @@
 <!--start header -->
 <header>
-    <div class="topbar d-flex align-items-center">
+    <div class="topbar d-flex align-items-center shadow">
         <nav class="navbar navbar-expand">
+           
             <div class="mobile-toggle-menu"><i class='bx bx-menu'></i></div>
-            <li class="ms-3 mobile-search-icon">
+            <li class="ms-1 mobile-search-icon">
                 <i class='bx bx-search'></i>
+            </li>
+            <li class="mobile-toggle-menu ms-2">
+                <a href="/"><img src="{{ asset('assets/images/tab-icon.png') }}" width="50px" height="50px"
+                    alt="logo icon"></a>
             </li>
             <div class="search-bar flex-grow-1">
                 <div class="position-relative search-bar-box">
@@ -15,7 +20,7 @@
                             class='bx bx-x search-vi-color'></i></span>
                 </div>
             </div>
-            
+
             <div class="top-menu ms-auto">
                 <ul class="navbar-nav align-items-center">
                     <li class="d-none nav-item dropdown dropdown-large">
@@ -313,6 +318,24 @@
                 <a href="#" class="btn btn-success btn-responsive px-1">ابدأ التداول الان <i
                         class='bx bx-chevron-left ms-1'></i></a>
             </div>
+        </nav>
+    </div>
+    <div class="secound-nav d-flex align-items-center">
+        <nav class="navbar navbar-expand">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item ms-4">
+                    <a class="nav-link active" aria-current="page" href="#">تقييم الشركات</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">المقالات</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">الشركات النصابة</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">ابلاغ عن الشركة نصابة</a>
+                  </li>
+            </ul>
         </nav>
     </div>
 </header>

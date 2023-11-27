@@ -642,6 +642,23 @@ th {
 	/* 27.4px */
 }
 
+.accordion-item {
+	border: 1px solid #32B24B !important;
+	border-radius: 10px;
+}
+
+.secound-nav {
+	margin-top: 60px;
+	margin-right: 260px;
+}
+
+.secound-nav a {
+	color: #000;
+	font-size: 18px;
+	font-weight: 600;
+	font-family: var(--fontFamily);
+}
+
 /* ============ Home Styles ends ============ */
 
 .back-to-top {
@@ -1086,6 +1103,10 @@ input::placeholder {
 	.text-orange {
 		display: block;
 	}
+
+	.secound-nav {
+		display: none !important;
+	}
 }
 
 @media screen and (max-width:991px) {
@@ -1164,6 +1185,9 @@ input::placeholder {
 }
 
 @media screen and (max-width:520px) {
+	.secound-nav {
+		display: none !important;
+	}
 
 	.chat-footer-menu,
 	.chat-top-header-menu {
@@ -1218,4 +1242,11 @@ input::placeholder {
 
 td {
 	border-bottom: 1px solid transparent !important;
+}
+
+.nav-nav-map {
+color: #000 !important;
+}
+.secound-nav .nav-link:hover {
+	color: #EF582C !important;
 }

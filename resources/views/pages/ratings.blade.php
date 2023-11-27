@@ -10,17 +10,7 @@
 @section('wrapper')
     <div class="page-wrapper">
         <div class="page-content">
-            <div class="mt-2">
-                <a class="header-links me-3" href="">
-                    <img src="assets/images/icons/target.svg" alt="" />
-                    منهجية أهداف الاستثمار
-
-                </a>
-                <a class="header-links" href="">
-                    <img src="assets/images/icons/Vector.svg" alt="" />
-                    الكشف عن المعلن
-                </a>
-            </div>
+       
 
             <div class="row">
                 <div class="col-12">
