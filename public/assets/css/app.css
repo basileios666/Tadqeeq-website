@@ -77,6 +77,10 @@ a {
 	/* display: none; */
 }
 
+.Adaptive-design-d {
+	display: none;
+}
+
 .conentBox {
 	position: relative;
 	background-color: #fff;
@@ -146,11 +150,11 @@ th {
 	height: 100%;
 	margin-top: 40px;
 	margin-bottom: 0px;
-	margin-right: 250px
+	margin-right: 200px
 }
 
 .page-content {
-	padding: 1.5rem
+	padding: 10px;
 }
 
 .page-content .header-links {
@@ -159,14 +163,14 @@ th {
 }
 
 .page-footer {
-	margin-right: 50px;
+	margin-right: 100px;
 	font-size: 14px;
 }
 
 .Warning-footer-p {
-	padding: 15px;
 	border-top: 1px solid #a1a1a1;
 	font-size: xx-small;
+	text-align: right;
 }
 
 .wrapper.toggled .topbar {
@@ -175,10 +179,6 @@ th {
 
 .wrapper.toggled .page-wrapper {
 	margin-right: 70px
-}
-
-.wrapper.toggled .page-footer {
-	right: 70px
 }
 
 .sidebar-wrapper ul {
@@ -952,9 +952,12 @@ input::placeholder {
 		margin-right: 0
 	}
 
+
 	.page-footer {
-		right: 0
+		margin-right: 0px;
+		font-size: 14px;
 	}
+
 
 	.search-bar {
 		display: none
@@ -1182,6 +1185,14 @@ input::placeholder {
 	.float {
 		right: 20px !important;
 	}
+
+	.Adaptive-design {
+		display: none;
+	}
+
+	.Adaptive-design-d {
+		display: block;
+	}
 }
 
 @media screen and (max-width:520px) {
@@ -1245,8 +1256,9 @@ td {
 }
 
 .nav-nav-map {
-color: #000 !important;
+	color: #000 !important;
 }
+
 .secound-nav .nav-link:hover {
 	color: #EF582C !important;
 }

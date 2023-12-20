@@ -1,13 +1,14 @@
 <div class="page-wrapper">
     <div class="page-footer">
+
         <div class="page-content">
 
             <!-- Footer -->
             <footer class="text-center text-lg-start text-dark">
                 <!-- Section: Social media -->
-                <section class="d-flex justify-content-between p-4">
+                <section class="d-flex justify-content-between">
                     <!-- Left -->
-                    <div class="me-5">
+                    <div>
                         <h6>حساباتنا على السوشيال ميديا:</h6>
                     </div>
                     <!-- Left -->
@@ -43,7 +44,7 @@
                     <div class="row mt-3">
 
                         <!-- Grid column -->
-                        <div class="col-sm-6 col-md-6 col-lg-3 mb-4">
+                        <div class="col-md-6 col-lg-3 mb-4">
                             <!-- Content -->
                             <h6>تدقيق</h6>
                             <hr
@@ -55,7 +56,7 @@
                         <!-- Grid column -->
 
                         <!-- Grid column -->
-                        <div class="col-sm-6 col-md-6 col-lg-3 mb-4">
+                        <div class="col-md-6 col-lg-3 mb-4">
                             <!-- Links -->
                             <h6>خدماتنا</h6>
                             <hr class="mb-4 mt-0 d-inline-block mx-auto"
@@ -76,7 +77,7 @@
                         <!-- Grid column -->
 
                         <!-- Grid column -->
-                        <div class="col-sm-6 col-md-6 col-lg-3 mb-4">
+                        <div class="col-md-6 col-lg-3 mb-4">
                             <!-- Links -->
                             <h6>روابط مفيدة</h6>
                             <hr class="mb-4 mt-0 d-inline-block mx-auto"
@@ -97,7 +98,7 @@
                         <!-- Grid column -->
 
                         <!-- Grid column -->
-                        <div class="col-sm-6 col-md-6 col-lg-3 mb-4">
+                        <div class="col-md-6 col-lg-3 mb-4">
                             <!-- Links -->
                             <h6>اتصل بنا</h6>
                             <hr class="mb-4 mt-0 d-inline-block mx-auto"
@@ -116,8 +117,8 @@
 
 
                 <!-- Copyright -->
-                <div>
-                    <p class="Warning-footer-p text-start">حقوق الطبع والنشر © 2013—2023 ThinkHuge Ltd.
+                <div class="Warning-footer-p pt-2">
+                    <p>حقوق الطبع والنشر © 2013—2023 ThinkHuge Ltd.
                         dba ForexVPS.net. | العنوان: الطابق السادس والعشرون،
                         برج المجموعة الجميلة، 77 طريق كونوت المركزي، وسط هونغ كونغ | المصطلحات | سياسة الخصوصية |
                         سياسة
@@ -147,5 +148,7 @@
             <!-- Footer -->
             <!-- End of .container -->
         </div>
+       
+
     </div>
 </div>

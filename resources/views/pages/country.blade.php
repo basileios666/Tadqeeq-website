@@ -11,14 +11,14 @@
     <div class="page-wrapper">
         <div class="mb-5">
             <a href="/" class="header-links nav-nav-map me-3" href="">
-               الرئيسية
-               /<span>
-                <a>شركات التداول بالسعودية</a>
-            </span>
+                الرئيسية
+                /<span>
+                    <a>شركات التداول بالسعودية</a>
+                </span>
             </a>
         </div>
         <div class="page-content">
-            
+
             <div>
                 <a class="header-links me-3" href="">
                     <img src="assets/images/icons/target.svg" alt="" />
@@ -29,6 +29,7 @@
                     الكشف عن المعلن
                 </a>
             </div>
+
             <h1 class="Hero-h1 my-5">أفضل شركات التداول المرخصة في السعودية</h1>
             <div class="row my-5">
                 <div class="col-sm-12 col-md-6 col-lg-3">
@@ -79,9 +80,9 @@
 
 
 
-            <div class="row">
+            <div class="row Adaptive-design">
                 <h1 class="mt-5">وسطاء فوركس المميزون </h1>
-                <div class="table-responsive my-5">
+                <div class="Adaptive table-responsive my-5">
                     <table class="table mb-0">
                         <tbody>
                             <tr class="border-bottom border-dark">
@@ -209,29 +210,99 @@
                 </div>
             </div>
 
-            <div class="row">
-                <div class="card-body">
-                    <div class="accordion" id="accordionExample">
-                        <div class="accordion-item ">
-                            <h2 class="accordion-header" id="headingOne">
-                                <button class="accordion-button shadow border-1" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    جدول المحتويات
-                                </button>
-                            </h2>
-                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <h6>التداول في السعودية: الفرق بين السوق المحلي والسوق العالمي</h6>
-                                    <ul>
-                                        <li>ايجابيات وسلبيات شركات التداول السعودية</li>
-                                        <li>السوق السعودي </li>
-                                        <li>سوق التداول العالمي</li>
-                                    </ul>
-                                    <br>
-                                    <h6>أفضل شركات التداول المرخصة في السعودية لعام 2023</h6>
-                                    <br>
-                                    <h6>شركات الوساطة المالية في السعودية</h6>
+
+
+
+            <div class="row Adaptive-design-d my-4">
+                <h1>وسطاء فوركس المميزون </h1>
+                <div class="card col-12 my-5 p-0">
+                    <div class="row">
+                        <div class="col-6 p-5">
+                            <img src="{{ asset('assets/images/compaines-logos/AvaTrade-Logo 1.png') }}" width="150"
+                                height="75" class="rounded" alt="">
+                        </div>
+                        <div class="col-6 text-center my-2">
+                            <h6>RoboForex</h6>
+                            <p>درجة الامان: <span class="text-success">مرتفعة</span></p>
+                            <div>
+                                <span class="material-symbols-outlined checked">stars</span>
+                                <span class="material-symbols-outlined checked">stars</span>
+                                <span class="material-symbols-outlined checked">stars</span>
+                                <span class="material-symbols-outlined">stars</span>
+                                <span class="material-symbols-outlined">stars</span>
+                            </div>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="13"
+                                    viewBox="0 0 14 13" fill="none">
+                                    <path
+                                        d="M4.83636 13L3.62727 11.019L1.33636 10.5238L1.55909 8.23333L0 6.5L1.55909 4.76667L1.33636 2.47619L3.62727 1.98095L4.83636 0L7 0.897619L9.16364 0L10.3727 1.98095L12.6636 2.47619L12.4409 4.76667L14 6.5L12.4409 8.23333L12.6636 10.5238L10.3727 11.019L9.16364 13L7 12.1024L4.83636 13ZM5.37727 11.4214L7 10.7405L8.65455 11.4214L9.54545 9.93572L11.2955 9.53333L11.1364 7.8L12.3136 6.5L11.1364 5.16905L11.2955 3.43571L9.54545 3.06429L8.62273 1.57857L7 2.25952L5.34545 1.57857L4.45455 3.06429L2.70455 3.43571L2.86364 5.16905L1.68636 6.5L2.86364 7.8L2.70455 9.56429L4.45455 9.93572L5.37727 11.4214ZM7 9.59524C7.1803 9.59524 7.33144 9.53591 7.45341 9.41726C7.57538 9.29861 7.63636 9.15159 7.63636 8.97619C7.63636 8.80079 7.57538 8.65377 7.45341 8.53512C7.33144 8.41647 7.1803 8.35714 7 8.35714C6.8197 8.35714 6.66856 8.41647 6.54659 8.53512C6.42462 8.65377 6.36364 8.80079 6.36364 8.97619C6.36364 9.15159 6.42462 9.29861 6.54659 9.41726C6.66856 9.53591 6.8197 9.59524 7 9.59524ZM6.36364 7.11905H7.63636V3.40476H6.36364V7.11905Z"
+                                        fill="#EF582C" />
+                                </svg>
+                                10$
+                                <div class="my-2">
+                                    <a class="btn btn-success shadow px-5 py-0">ابدأ الان</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card col-12 my-5 p-0">
+                    <div class="row">
+                        <div class="col-6 p-5">
+                            <img src="{{ asset('assets/images/compaines-logos/AvaTrade-Logo 1.png') }}" width="150"
+                                height="75" class="rounded" alt="">
+                        </div>
+                        <div class="col-6 text-center my-2">
+                            <h6>RoboForex</h6>
+                            <p>درجة الامان: <span class="text-success">مرتفعة</span></p>
+                            <div>
+                                <span class="material-symbols-outlined checked">stars</span>
+                                <span class="material-symbols-outlined checked">stars</span>
+                                <span class="material-symbols-outlined checked">stars</span>
+                                <span class="material-symbols-outlined">stars</span>
+                                <span class="material-symbols-outlined">stars</span>
+                            </div>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="13"
+                                    viewBox="0 0 14 13" fill="none">
+                                    <path
+                                        d="M4.83636 13L3.62727 11.019L1.33636 10.5238L1.55909 8.23333L0 6.5L1.55909 4.76667L1.33636 2.47619L3.62727 1.98095L4.83636 0L7 0.897619L9.16364 0L10.3727 1.98095L12.6636 2.47619L12.4409 4.76667L14 6.5L12.4409 8.23333L12.6636 10.5238L10.3727 11.019L9.16364 13L7 12.1024L4.83636 13ZM5.37727 11.4214L7 10.7405L8.65455 11.4214L9.54545 9.93572L11.2955 9.53333L11.1364 7.8L12.3136 6.5L11.1364 5.16905L11.2955 3.43571L9.54545 3.06429L8.62273 1.57857L7 2.25952L5.34545 1.57857L4.45455 3.06429L2.70455 3.43571L2.86364 5.16905L1.68636 6.5L2.86364 7.8L2.70455 9.56429L4.45455 9.93572L5.37727 11.4214ZM7 9.59524C7.1803 9.59524 7.33144 9.53591 7.45341 9.41726C7.57538 9.29861 7.63636 9.15159 7.63636 8.97619C7.63636 8.80079 7.57538 8.65377 7.45341 8.53512C7.33144 8.41647 7.1803 8.35714 7 8.35714C6.8197 8.35714 6.66856 8.41647 6.54659 8.53512C6.42462 8.65377 6.36364 8.80079 6.36364 8.97619C6.36364 9.15159 6.42462 9.29861 6.54659 9.41726C6.66856 9.53591 6.8197 9.59524 7 9.59524ZM6.36364 7.11905H7.63636V3.40476H6.36364V7.11905Z"
+                                        fill="#EF582C" />
+                                </svg>
+                                10$
+                                <div class="my-2">
+                                    <a class="btn btn-success shadow px-5 py-0">ابدأ الان</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card col-12 my-5 p-0">
+                    <div class="row">
+                        <div class="col-6 p-5">
+                            <img src="{{ asset('assets/images/compaines-logos/AvaTrade-Logo 1.png') }}" width="150"
+                                height="75" class="rounded" alt="">
+                        </div>
+                        <div class="col-6 text-center my-2">
+                            <h6>RoboForex</h6>
+                            <p>درجة الامان: <span class="text-success">مرتفعة</span></p>
+                            <div>
+                                <span class="material-symbols-outlined checked">stars</span>
+                                <span class="material-symbols-outlined checked">stars</span>
+                                <span class="material-symbols-outlined checked">stars</span>
+                                <span class="material-symbols-outlined">stars</span>
+                                <span class="material-symbols-outlined">stars</span>
+                            </div>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="13"
+                                    viewBox="0 0 14 13" fill="none">
+                                    <path
+                                        d="M4.83636 13L3.62727 11.019L1.33636 10.5238L1.55909 8.23333L0 6.5L1.55909 4.76667L1.33636 2.47619L3.62727 1.98095L4.83636 0L7 0.897619L9.16364 0L10.3727 1.98095L12.6636 2.47619L12.4409 4.76667L14 6.5L12.4409 8.23333L12.6636 10.5238L10.3727 11.019L9.16364 13L7 12.1024L4.83636 13ZM5.37727 11.4214L7 10.7405L8.65455 11.4214L9.54545 9.93572L11.2955 9.53333L11.1364 7.8L12.3136 6.5L11.1364 5.16905L11.2955 3.43571L9.54545 3.06429L8.62273 1.57857L7 2.25952L5.34545 1.57857L4.45455 3.06429L2.70455 3.43571L2.86364 5.16905L1.68636 6.5L2.86364 7.8L2.70455 9.56429L4.45455 9.93572L5.37727 11.4214ZM7 9.59524C7.1803 9.59524 7.33144 9.53591 7.45341 9.41726C7.57538 9.29861 7.63636 9.15159 7.63636 8.97619C7.63636 8.80079 7.57538 8.65377 7.45341 8.53512C7.33144 8.41647 7.1803 8.35714 7 8.35714C6.8197 8.35714 6.66856 8.41647 6.54659 8.53512C6.42462 8.65377 6.36364 8.80079 6.36364 8.97619C6.36364 9.15159 6.42462 9.29861 6.54659 9.41726C6.66856 9.53591 6.8197 9.59524 7 9.59524ZM6.36364 7.11905H7.63636V3.40476H6.36364V7.11905Z"
+                                        fill="#EF582C" />
+                                </svg>
+                                10$
+                                <div class="my-2">
+                                    <a class="btn btn-success shadow px-5 py-0">ابدأ الان</a>
                                 </div>
                             </div>
                         </div>
@@ -239,344 +310,394 @@
                 </div>
             </div>
 
-            <div class="row">
-                <div class="label my-5">
-                    <h2 class="text-wrapper">ماهي افضل شركات التداول المرخصة في السعودية 2023؟</h2>
-                </div>
-                <div class="label">
-                    <p class="ASIC-DFSA-ADGM-FCA">
-                        <span class="text-wrapper">توجد العديد من شركات التداول الموثوقة في السعودية، ولكن قبل عرض تلك
-                            الشركات، دعونا نتعرف على أمر هام وهو:<br /></span>
-                        <span class="span"><br />هل يُعتبر تداول الفوركس قانونيًا في السعودية؟<br /><br /></span>
-                        <span class="text-wrapper">إجابة هذا السؤال تكمن في عدم وجود قانون في المملكة العربية السعودية يمنع
-                            تداول الفوركس. وأحد الدلائل الكبيرة
-                            على ذلك هو وجود شركات تداول الفوركس العالمية على أراضي السعودية. ومع ذلك، لا تقوم المملكة
-                            العربية السعودية
-                            بتنظيم عملية تداول الفوركس او تداول الذهب والعملات الاجنبيه بصورة عقود مقابل الفورقات بنفسها، بل
-                            تتم هذه
-                            العملية من قبل هيئات رقابية عربية ودولية مرموقة. على سبيل المثال، تتولى الهيئات التالية عملية
-                            التنظيم:<br /><br />هيئة
-                            الأوراق المالية الأسترالية ASIC.<br />سلطة دبي للخدمات المالية DFSA.<br />سوق أبوظبي العالمي
-                            ADGM.<br />هيئة
-                            السلوك المالي في المملكة المتحدة FCA.<br />هيئة الأوراق المالية والبورصات القبرصية
-                            CySEC.<br />هيئة الأوراق
-                            المالية الأردنية JSC<br /><br /><br />يتم تصنيف الهيئات السابق ذكرها على أنها من أفضل هيئات
-                            رقابية في سوق
-                            التداول والإستثمار في العالم</span>
-                    </p>
-                </div>
-            </div>
+        </div>
 
-           
 
-            <div class="row">
-                <div class="label my-5">
-                    <h2 class="text-wrapper">التداول في السعودية: الفرق بين السوق المحلي والسوق العالمي</h2>
-                </div>
-                <div class="label">
-                    <div class="flexcontainer">
-                        <p class="text">
-                            <span class="text-wrapper">يعرف عن المستثمرين في المملكة العربية السعودية عن اهتمامهم الكبير في
-                                سوق تداول الأسهم بشكل عام ويميل جزء
-                                كبير أيضاً الى تداول الفوركس والعملات الأجنبية، رغم وجود الكثير من التحذيرات من الجهات
-                                الخاصة حول تداول
-                                الفوركس في المملكة إلا أن بعض الشركات المرخص لها تقدم هذه الخدمات بطريقة صحيحة، مما جعل موقع
-                                يقين مكاناً
-                                مخصصاً لعرض هذه الشركات بطريقة سهلة.<br /></span>
-                        </p>
-                        <p class="text">
-                            <span class="text-wrapper">عند الحديث عن تداول الفوركس في السعودية يصعب إيجاد وسيط تداول محلي
-                                مرخص لتقديم هذه الخدمة، وان وجد، تكون
-                                الخدمة عالية التكاليف من حيث العمولات المفروضة في حساب التداول من جهة، وبناء نموذج ربحي من
-                                جهة أخرى.<br /></span>
-                        </p>
-                        <p class="text">
-                            <span class="text-wrapper">يعرف عن التداول في الفوركس وعقود الفروقات أنه مخصص لمن يبحث عن تحقيق
-                                أرباح سريعة، من خلال المضاربة اليومية،
-                                ولذلك يكون الهامش الربحي لا يتعدى 10% يومياً، وعند فرض عمولات عالية على التداول في هذا
-                                النظام، يقل الهامش
-                                الربحي مما جعل المستثمرين في السوق السعودي بالتوجه الى شركات عالمية تقدم نفس الخدمات،
-                                وأحياناً أفضل، لتقليل
-                                التكاليف وزيادة الربحية.</span>
-                        </p>
-                    </div>
-                </div>
-            </div>
 
-         
 
-            <div class="row">
-                <div class="label my-5">
-                    <h2 class="text-wrapper">ما هي شركات التداول الموثوقة في السعودية؟</h2>
-                </div>
-                <div class="label">
-                    <p class="exness-evest">
-                        نأتي الآن إلى موضوعنا الأكثر أهمية وهو شركات التداول الموثوقة في المملكة العربية السعودية. سنذكر هنا
-                        أربع شركات
-                        تداول قوية وتتمتع بسمعة طيبة في المملكة العربية السعودية، وهي:<br /><br /><br />شركة
-                        Exness<br /><br />شركة
-                        Evest<br /><br />شركة Accuindex<br /><br />شركة Avatrade
-                    </p>
-                </div>
-            </div>
 
-            <div class="row">
-                <div class="label my-5">
-                    <h2 class="text-wrapper">هل جميع شركات التداول الموثوقة في السعودية؟</h2>
-                </div>
-                <div class="label">
-                    <p class="text-wrapper">
-                        من المؤكد أنه ليست كل الشركات التي تعمل في سوق التداول داخل المملكه العربيه السعوديه هي شركات موثوقه
-                        حيث توجد
-                        الكثير من الشركات النصابة التي تقوم بالنصب على العملاء وربما يخطر ببالك سؤال الآن هو:
-                    </p>
-                    <div class="flexcontainer">
-                        <p class="text">
-                            <span class="text-wrapper">للتأكد من تراخيص شركات التداول في المملكة العربية السعودية، ستحتاج
-                                إلى القيام بالأمور التالية:<br /></span>
-                        </p>
-                        <p class="text">
-                            <span class="text-wrapper">تصفح موقع الشركة للحصول على رقم الترخيص واسم الجهة الرقابية المرخصة
-                                منها.<br /></span>
-                        </p>
-                        <p class="text">
-                            <span class="text-wrapper">التوجه إلى الموقع الرسمي للجهة الرقابية والبحث عن اسم الشركة أو رقم
-                                الترخيص الذي حصلت عليه منها.<br /></span>
-                        </p>
-                        <p class="text">
-                            <span class="text-wrapper">من المهم أيضًا التأكد من أن سجل الشركة خالٍ من المشاكل والتجاوزات
-                                لدى الهيئات الرقابية المعتمدة.&#34;</span>
-                        </p>
-                    </div>
-                </div>
-            </div>
 
-            <div class="row">
-                <div class="label my-5">
-                    <h2 class="text-wrapper">هل يوجد شركات مرخصة من هيئة سوق المال السعودية لتداول الفوركس؟</h2>
-                </div>
-                <div class="label">
-                    <p class="text-wrapper">
-                        ذكرنا في البداية أن تداول الفوركس او تداول العملات الرقمية لا يتم تنظيمه من قبل أي هيئة داخل المملكة
-                        العربية
-                        السعودية، وإنما يتم ذلك من قبل هيئات عربية مثل الهيئة الموجودة في دولة الإمارات العربية المتحدة، أو
-                        هيئة دولية
-                        مثل هيئة الخدمات المالية في المملكة المتحدة. وبناءً على ذلك، لا يوجد أي شركات للفوركس مرخصة من قبل
-                        هيئة السوق
-                        المال السعودية.
-                    </p>
-                </div>
-            </div>
 
-            <div class="row">
-                <div class="label my-5">
-                    <h2 class="text-wrapper">ما هي افضل شركة في قائمة شركات التداول الموثوقة في السعودية؟</h2>
-                </div>
-                <div class="label">
-                    <p class="text-wrapper">
-                        على الرغم من أن جميع الشركات التي ذكرناها في الأعلى هي شركات موثوقة وتتمتع بتراخيص قوية، بالإضافة
-                        إلى سمعة جيدة،
-                        إلا أننا إذا أردنا اختيار أفضل شركة من قائمة تلك الشركات، فإننا نرجح شركة Exness. تتميز هذه الشركة
-                        بثقة عالية
-                        لدى المتداولين في المملكة العربية السعودية، كما أن لديها مكاتب في المملكة، بالإضافة إلى تراخيصها
-                        الدولية
-                        الموثوقة.
-                    </p>
-                </div>
-            </div>
 
-            <div class="row">
-                <div class="label my-5">
-                    <h2 class="text-wrapper">شركات التداول النصابة في المملكة العربية السعودية</h2>
-                </div>
-                <div class="label">
-                    <div class="flexcontainer">
-                        <p class="text">
-                            <span class="text-wrapper">وبعد انتهاء حديثنا عن أفضل شركات التداول الموثوقة في السعودية، لا
-                                يمكن إغفال الأمر دون التحذير من شركات
-                                التداول النصابة داخل المملكة العربية السعودية.<br /></span>
-                        </p>
-                        <p class="text">
-                            <span class="text-wrapper">ونذكرك، عزيزي القارئ، أننا نعمل على توفير قائمة محدثة بشكل دوري
-                                وفقًا لإصدارات الهيئات الرقابية وكذلك وفقًا
-                                لشكاوى النصب التي تتعلق بتلك الشركات. يمكنك الاطلاع عليها في موقع ضمان. كما أود أن أذكرك أنك
-                                تستطيع أيضًا
-                                الإبلاغ عن أي من الشركات التي ترى أنها نصابة، وسنقوم بفحص الأمر، وإذا ثبت ذلك، سنقوم بعمل
-                                تحذير حتى لا يقع
-                                أحد ضحية لها مرة أخرى.</span>
-                        </p>
-                    </div>
-                </div>
-            </div>
 
-            <div class="row">
-                <div class="inline-company my-5" id="inline-company">
-                    <header class="inline-company__header text-center my-4">
-                        <div class="inline-company-img col-12"><img loading="lazy" width="50%" height="50%"
-                                src="https://yaaqen.com/img/Evest-logo.svg" alt="شركة ايفست Evest"
-                                class="company-img mx-auto" title="شركة ايفست Evest"></div>
-                        <h3 class="my-5">شركة ايفست Evest</h3>
-                        <hr>
-                    </header>
-                    <div class="inline-company__content">
-                        <div class="inline-company__body">
-                            <p>تعتبر شركة ايفست من شركات التداول التي تقدم خدماتها في منطقة الشرق الأوسط ودول الخليج مع
-                                اهتمام كبير في تقديم خدمات تداول الأسهم بحسابات مميزة خالية من العمولات والروافع المالية عند
-                                طلب ذلك تفعيل ذلك للمتداول المتمرس بجانب تقديم ادوات مالية عديدة بجانب الأسهم مثل العملات
-                                الرقمية، العملات الأجنبية وتداول المعادن الثمينة.</p>
-                        </div>
-                        <div class="inline-company__features d-flex my-5">
-                            <div class="inline-company__item">
-                                <h4>الميزات</h4>
-                                <ul class="feature-list pros">
-                                    <li>حسابات بنكية محلية في السعودية</li>
-                                    <li>مدراء حسابات ودورات تدريبية</li>
-                                    <li>أكاديمية تداول متقدمة جداً</li>
+
+
+
+
+
+
+
+
+
+
+        <div class="row">
+            <div class="card-body">
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item ">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button shadow border-1" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                جدول المحتويات
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <h6>التداول في السعودية: الفرق بين السوق المحلي والسوق العالمي</h6>
+                                <ul>
+                                    <li>ايجابيات وسلبيات شركات التداول السعودية</li>
+                                    <li>السوق السعودي </li>
+                                    <li>سوق التداول العالمي</li>
                                 </ul>
-                            </div>
-                            <div class="inline-company__item ms-5">
-                                <h4>العيوب</h4>
-                                <ul class="feature-list cons">
-                                    <li>ترخيص دولي فقط</li>
-                                </ul>
+                                <br>
+                                <h6>أفضل شركات التداول المرخصة في السعودية لعام 2023</h6>
+                                <br>
+                                <h6>شركات الوساطة المالية في السعودية</h6>
                             </div>
                         </div>
-                    </div>
-                    <footer class="inline-company__footer my-5">
-                        <p class="byline"><svg width="24" height="25" viewBox="0 0 24 25" fill="none"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <path
-                                    d="M22 11.3432V12.2632C21.9988 14.4197 21.3005 16.5179 20.0093 18.2451C18.7182 19.9722 16.9033 21.2357 14.8354 21.8471C12.7674 22.4586 10.5573 22.3851 8.53447 21.6378C6.51168 20.8905 4.78465 19.5093 3.61096 17.7003C2.43727 15.8913 1.87979 13.7513 2.02168 11.5996C2.16356 9.44781 2.99721 7.39957 4.39828 5.76032C5.79935 4.12107 7.69279 2.97863 9.79619 2.50339C11.8996 2.02816 14.1003 2.24558 16.07 3.12325"
-                                    stroke="#0AA435" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                                </path>
-                                <path d="M22 4.26324L12 14.2732L9 11.2732" stroke="#0AA435" stroke-width="2"
-                                    stroke-linecap="round" stroke-linejoin="round"></path>
-                            </svg><span>سجل الآن عبر يقين وطالب ببونص يصل الى 20% على الايداع الأول</span></p>
-                        <p class="inline-company__cta"><a href="javascript:void(0);"
-                                onclick="if (!window.__cfRLUnblockHandlers) return false; showPopup(`ايفست Evest`)"
-                                rel="nofollow" class="font-weight-bold">فتح حساب مع ايفست Evest</a></p>
-                    </footer>
-                </div>
-                <div class="inline-company my-5" id="inline-company">
-                    <header class="inline-company__header text-center my-4">
-                        <div class="inline-company-img col-12"><img loading="lazy" width="50%" height="50%"
-                                src="https://yaaqen.com/img/AvaTrade-Logo.svg" alt="شركة ايفست Evest"
-                                class="company-img mx-auto" title="شركة ايفست Evest"></div>
-                        <h3 class="my-5">شركة ايفست Evest</h3>
-                        <hr>
-                    </header>
-                    <div class="inline-company__content">
-                        <div class="inline-company__body">
-                            <p>تعتبر شركة ايفست من شركات التداول التي تقدم خدماتها في منطقة الشرق الأوسط ودول الخليج مع
-                                اهتمام كبير في تقديم خدمات تداول الأسهم بحسابات مميزة خالية من العمولات والروافع المالية عند
-                                طلب ذلك تفعيل ذلك للمتداول المتمرس بجانب تقديم ادوات مالية عديدة بجانب الأسهم مثل العملات
-                                الرقمية، العملات الأجنبية وتداول المعادن الثمينة.</p>
-                        </div>
-                        <div class="inline-company__features d-flex my-5">
-                            <div class="inline-company__item">
-                                <h4>الميزات</h4>
-                                <ul class="feature-list pros">
-                                    <li>حسابات بنكية محلية في السعودية</li>
-                                    <li>مدراء حسابات ودورات تدريبية</li>
-                                    <li>أكاديمية تداول متقدمة جداً</li>
-                                </ul>
-                            </div>
-                            <div class="inline-company__item ms-5">
-                                <h4>العيوب</h4>
-                                <ul class="feature-list cons">
-                                    <li>ترخيص دولي فقط</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <footer class="inline-company__footer my-5">
-                        <p class="byline"><svg width="24" height="25" viewBox="0 0 24 25" fill="none"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <path
-                                    d="M22 11.3432V12.2632C21.9988 14.4197 21.3005 16.5179 20.0093 18.2451C18.7182 19.9722 16.9033 21.2357 14.8354 21.8471C12.7674 22.4586 10.5573 22.3851 8.53447 21.6378C6.51168 20.8905 4.78465 19.5093 3.61096 17.7003C2.43727 15.8913 1.87979 13.7513 2.02168 11.5996C2.16356 9.44781 2.99721 7.39957 4.39828 5.76032C5.79935 4.12107 7.69279 2.97863 9.79619 2.50339C11.8996 2.02816 14.1003 2.24558 16.07 3.12325"
-                                    stroke="#0AA435" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                                </path>
-                                <path d="M22 4.26324L12 14.2732L9 11.2732" stroke="#0AA435" stroke-width="2"
-                                    stroke-linecap="round" stroke-linejoin="round"></path>
-                            </svg><span>سجل الآن عبر يقين وطالب ببونص يصل الى 20% على الايداع الأول</span></p>
-                        <p class="inline-company__cta"><a href="javascript:void(0);"
-                                onclick="if (!window.__cfRLUnblockHandlers) return false; showPopup(`ايفست Evest`)"
-                                rel="nofollow" class="font-weight-bold">فتح حساب مع ايفست Evest</a></p>
-                    </footer>
-                </div>
-            </div>
-
-            <div class="row">
-                <h1 class="Hero-h1 my-5">الاسئلة الاكثر تكرارا</h1>
-                <div>
-                    <div class="accordion" id="accordionExample">
-
-                        <div class="accordion-item my-4">
-                            <h2 class="accordion-header" id="headingOne">
-                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    لماذا من الضروري أن يكون لديك وسيط؟
-                                </button>
-                            </h2>
-                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <p>هناك حاجة إلى وسطاء لأن أسواق الأوراق المالية لن تقبل إلا الطلبات من
-                                        أعضاء
-                                        البورصة - حيث يقوم الوسطاء بترتيب المعاملات بين المشتري والبائع. إنهم
-                                        يحصلون على
-                                        عمولة بعد تنفيذ الصفقة (على الرغم من أنهم يختارون في بعض الأحيان تخفيض
-                                        أو حتى
-                                        إلغاء الرسوم لبعض منتجات التداول).</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item my-4">
-                            <h2 class="accordion-header" id="headingTwo">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    ما الذي تبحث عنه في الوسيط؟
-                                </button>
-                            </h2>
-                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <p>That's so cute. Can we have Bender Burgers again? Is the Space Pope
-                                        reptilian!? I wish! It's a nickel. Bender! Ship! Stop bickering or I'm
-                                        going
-                                        to come back there and change your opinions manually!</p>
-                                    <p><strong>Example: </strong>Okay, I like a challenge. Is that a cooking
-                                        show?
-                                        No argument here.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item my-4">
-                            <h2 class="accordion-header" id="headingThree">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    كيف تختار الوسيط؟
-                                </button>
-                            </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <p>As I have explained in my book 'Earth in the Balance', and the much more
-                                        popular 'Harry Potter and the Balance of Earth', we need to defend our
-                                        planet against pollution. Also dark wizards. Fry, you can't just sit
-                                        here in
-                                        the dark listening to classical music.</p>
-                                    <p><strong>Example: </strong>Actually, that's still true. Well, let's just
-                                        dump
-                                        it in the sewer and say we delivered it.</p>
-                                </div>
-                            </div>
-                        </div>
-
                     </div>
                 </div>
             </div>
         </div>
+
+        <div class="row">
+            <div class="label my-5">
+                <h2 class="text-wrapper">ماهي افضل شركات التداول المرخصة في السعودية 2023؟</h2>
+            </div>
+            <div class="label">
+                <p class="ASIC-DFSA-ADGM-FCA">
+                    <span class="text-wrapper">توجد العديد من شركات التداول الموثوقة في السعودية، ولكن قبل عرض تلك
+                        الشركات، دعونا نتعرف على أمر هام وهو:<br /></span>
+                    <span class="span"><br />هل يُعتبر تداول الفوركس قانونيًا في السعودية؟<br /><br /></span>
+                    <span class="text-wrapper">إجابة هذا السؤال تكمن في عدم وجود قانون في المملكة العربية السعودية يمنع
+                        تداول الفوركس. وأحد الدلائل الكبيرة
+                        على ذلك هو وجود شركات تداول الفوركس العالمية على أراضي السعودية. ومع ذلك، لا تقوم المملكة
+                        العربية السعودية
+                        بتنظيم عملية تداول الفوركس او تداول الذهب والعملات الاجنبيه بصورة عقود مقابل الفورقات بنفسها، بل
+                        تتم هذه
+                        العملية من قبل هيئات رقابية عربية ودولية مرموقة. على سبيل المثال، تتولى الهيئات التالية عملية
+                        التنظيم:<br /><br />هيئة
+                        الأوراق المالية الأسترالية ASIC.<br />سلطة دبي للخدمات المالية DFSA.<br />سوق أبوظبي العالمي
+                        ADGM.<br />هيئة
+                        السلوك المالي في المملكة المتحدة FCA.<br />هيئة الأوراق المالية والبورصات القبرصية
+                        CySEC.<br />هيئة الأوراق
+                        المالية الأردنية JSC<br /><br /><br />يتم تصنيف الهيئات السابق ذكرها على أنها من أفضل هيئات
+                        رقابية في سوق
+                        التداول والإستثمار في العالم</span>
+                </p>
+            </div>
+        </div>
+
+
+
+        <div class="row">
+            <div class="label my-5">
+                <h2 class="text-wrapper">التداول في السعودية: الفرق بين السوق المحلي والسوق العالمي</h2>
+            </div>
+            <div class="label">
+                <div class="flexcontainer">
+                    <p class="text">
+                        <span class="text-wrapper">يعرف عن المستثمرين في المملكة العربية السعودية عن اهتمامهم الكبير في
+                            سوق تداول الأسهم بشكل عام ويميل جزء
+                            كبير أيضاً الى تداول الفوركس والعملات الأجنبية، رغم وجود الكثير من التحذيرات من الجهات
+                            الخاصة حول تداول
+                            الفوركس في المملكة إلا أن بعض الشركات المرخص لها تقدم هذه الخدمات بطريقة صحيحة، مما جعل موقع
+                            يقين مكاناً
+                            مخصصاً لعرض هذه الشركات بطريقة سهلة.<br /></span>
+                    </p>
+                    <p class="text">
+                        <span class="text-wrapper">عند الحديث عن تداول الفوركس في السعودية يصعب إيجاد وسيط تداول محلي
+                            مرخص لتقديم هذه الخدمة، وان وجد، تكون
+                            الخدمة عالية التكاليف من حيث العمولات المفروضة في حساب التداول من جهة، وبناء نموذج ربحي من
+                            جهة أخرى.<br /></span>
+                    </p>
+                    <p class="text">
+                        <span class="text-wrapper">يعرف عن التداول في الفوركس وعقود الفروقات أنه مخصص لمن يبحث عن تحقيق
+                            أرباح سريعة، من خلال المضاربة اليومية،
+                            ولذلك يكون الهامش الربحي لا يتعدى 10% يومياً، وعند فرض عمولات عالية على التداول في هذا
+                            النظام، يقل الهامش
+                            الربحي مما جعل المستثمرين في السوق السعودي بالتوجه الى شركات عالمية تقدم نفس الخدمات،
+                            وأحياناً أفضل، لتقليل
+                            التكاليف وزيادة الربحية.</span>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="row">
+            <div class="label my-5">
+                <h2 class="text-wrapper">ما هي شركات التداول الموثوقة في السعودية؟</h2>
+            </div>
+            <div class="label">
+                <p class="exness-evest">
+                    نأتي الآن إلى موضوعنا الأكثر أهمية وهو شركات التداول الموثوقة في المملكة العربية السعودية. سنذكر هنا
+                    أربع شركات
+                    تداول قوية وتتمتع بسمعة طيبة في المملكة العربية السعودية، وهي:<br /><br /><br />شركة
+                    Exness<br /><br />شركة
+                    Evest<br /><br />شركة Accuindex<br /><br />شركة Avatrade
+                </p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="label my-5">
+                <h2 class="text-wrapper">هل جميع شركات التداول الموثوقة في السعودية؟</h2>
+            </div>
+            <div class="label">
+                <p class="text-wrapper">
+                    من المؤكد أنه ليست كل الشركات التي تعمل في سوق التداول داخل المملكه العربيه السعوديه هي شركات موثوقه
+                    حيث توجد
+                    الكثير من الشركات النصابة التي تقوم بالنصب على العملاء وربما يخطر ببالك سؤال الآن هو:
+                </p>
+                <div class="flexcontainer">
+                    <p class="text">
+                        <span class="text-wrapper">للتأكد من تراخيص شركات التداول في المملكة العربية السعودية، ستحتاج
+                            إلى القيام بالأمور التالية:<br /></span>
+                    </p>
+                    <p class="text">
+                        <span class="text-wrapper">تصفح موقع الشركة للحصول على رقم الترخيص واسم الجهة الرقابية المرخصة
+                            منها.<br /></span>
+                    </p>
+                    <p class="text">
+                        <span class="text-wrapper">التوجه إلى الموقع الرسمي للجهة الرقابية والبحث عن اسم الشركة أو رقم
+                            الترخيص الذي حصلت عليه منها.<br /></span>
+                    </p>
+                    <p class="text">
+                        <span class="text-wrapper">من المهم أيضًا التأكد من أن سجل الشركة خالٍ من المشاكل والتجاوزات
+                            لدى الهيئات الرقابية المعتمدة.&#34;</span>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="label my-5">
+                <h2 class="text-wrapper">هل يوجد شركات مرخصة من هيئة سوق المال السعودية لتداول الفوركس؟</h2>
+            </div>
+            <div class="label">
+                <p class="text-wrapper">
+                    ذكرنا في البداية أن تداول الفوركس او تداول العملات الرقمية لا يتم تنظيمه من قبل أي هيئة داخل المملكة
+                    العربية
+                    السعودية، وإنما يتم ذلك من قبل هيئات عربية مثل الهيئة الموجودة في دولة الإمارات العربية المتحدة، أو
+                    هيئة دولية
+                    مثل هيئة الخدمات المالية في المملكة المتحدة. وبناءً على ذلك، لا يوجد أي شركات للفوركس مرخصة من قبل
+                    هيئة السوق
+                    المال السعودية.
+                </p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="label my-5">
+                <h2 class="text-wrapper">ما هي افضل شركة في قائمة شركات التداول الموثوقة في السعودية؟</h2>
+            </div>
+            <div class="label">
+                <p class="text-wrapper">
+                    على الرغم من أن جميع الشركات التي ذكرناها في الأعلى هي شركات موثوقة وتتمتع بتراخيص قوية، بالإضافة
+                    إلى سمعة جيدة،
+                    إلا أننا إذا أردنا اختيار أفضل شركة من قائمة تلك الشركات، فإننا نرجح شركة Exness. تتميز هذه الشركة
+                    بثقة عالية
+                    لدى المتداولين في المملكة العربية السعودية، كما أن لديها مكاتب في المملكة، بالإضافة إلى تراخيصها
+                    الدولية
+                    الموثوقة.
+                </p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="label my-5">
+                <h2 class="text-wrapper">شركات التداول النصابة في المملكة العربية السعودية</h2>
+            </div>
+            <div class="label">
+                <div class="flexcontainer">
+                    <p class="text">
+                        <span class="text-wrapper">وبعد انتهاء حديثنا عن أفضل شركات التداول الموثوقة في السعودية، لا
+                            يمكن إغفال الأمر دون التحذير من شركات
+                            التداول النصابة داخل المملكة العربية السعودية.<br /></span>
+                    </p>
+                    <p class="text">
+                        <span class="text-wrapper">ونذكرك، عزيزي القارئ، أننا نعمل على توفير قائمة محدثة بشكل دوري
+                            وفقًا لإصدارات الهيئات الرقابية وكذلك وفقًا
+                            لشكاوى النصب التي تتعلق بتلك الشركات. يمكنك الاطلاع عليها في موقع ضمان. كما أود أن أذكرك أنك
+                            تستطيع أيضًا
+                            الإبلاغ عن أي من الشركات التي ترى أنها نصابة، وسنقوم بفحص الأمر، وإذا ثبت ذلك، سنقوم بعمل
+                            تحذير حتى لا يقع
+                            أحد ضحية لها مرة أخرى.</span>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="inline-company my-5" id="inline-company">
+                <header class="inline-company__header text-center my-4">
+                    <div class="inline-company-img col-12"><img loading="lazy" width="50%" height="50%"
+                            src="https://yaaqen.com/img/Evest-logo.svg" alt="شركة ايفست Evest"
+                            class="company-img mx-auto" title="شركة ايفست Evest"></div>
+                    <h3 class="my-5">شركة ايفست Evest</h3>
+                    <hr>
+                </header>
+                <div class="inline-company__content">
+                    <div class="inline-company__body">
+                        <p>تعتبر شركة ايفست من شركات التداول التي تقدم خدماتها في منطقة الشرق الأوسط ودول الخليج مع
+                            اهتمام كبير في تقديم خدمات تداول الأسهم بحسابات مميزة خالية من العمولات والروافع المالية عند
+                            طلب ذلك تفعيل ذلك للمتداول المتمرس بجانب تقديم ادوات مالية عديدة بجانب الأسهم مثل العملات
+                            الرقمية، العملات الأجنبية وتداول المعادن الثمينة.</p>
+                    </div>
+                    <div class="inline-company__features d-flex my-5">
+                        <div class="inline-company__item">
+                            <h4>الميزات</h4>
+                            <ul class="feature-list pros">
+                                <li>حسابات بنكية محلية في السعودية</li>
+                                <li>مدراء حسابات ودورات تدريبية</li>
+                                <li>أكاديمية تداول متقدمة جداً</li>
+                            </ul>
+                        </div>
+                        <div class="inline-company__item ms-5">
+                            <h4>العيوب</h4>
+                            <ul class="feature-list cons">
+                                <li>ترخيص دولي فقط</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <footer class="inline-company__footer my-5">
+                    <p class="byline"><svg width="24" height="25" viewBox="0 0 24 25" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <path
+                                d="M22 11.3432V12.2632C21.9988 14.4197 21.3005 16.5179 20.0093 18.2451C18.7182 19.9722 16.9033 21.2357 14.8354 21.8471C12.7674 22.4586 10.5573 22.3851 8.53447 21.6378C6.51168 20.8905 4.78465 19.5093 3.61096 17.7003C2.43727 15.8913 1.87979 13.7513 2.02168 11.5996C2.16356 9.44781 2.99721 7.39957 4.39828 5.76032C5.79935 4.12107 7.69279 2.97863 9.79619 2.50339C11.8996 2.02816 14.1003 2.24558 16.07 3.12325"
+                                stroke="#0AA435" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            </path>
+                            <path d="M22 4.26324L12 14.2732L9 11.2732" stroke="#0AA435" stroke-width="2"
+                                stroke-linecap="round" stroke-linejoin="round"></path>
+                        </svg><span>سجل الآن عبر يقين وطالب ببونص يصل الى 20% على الايداع الأول</span></p>
+                    <p class="inline-company__cta"><a href="javascript:void(0);"
+                            onclick="if (!window.__cfRLUnblockHandlers) return false; showPopup(`ايفست Evest`)"
+                            rel="nofollow" class="font-weight-bold">فتح حساب مع ايفست Evest</a></p>
+                </footer>
+            </div>
+            <div class="inline-company my-5" id="inline-company">
+                <header class="inline-company__header text-center my-4">
+                    <div class="inline-company-img col-12"><img loading="lazy" width="50%" height="50%"
+                            src="https://yaaqen.com/img/AvaTrade-Logo.svg" alt="شركة ايفست Evest"
+                            class="company-img mx-auto" title="شركة ايفست Evest"></div>
+                    <h3 class="my-5">شركة ايفست Evest</h3>
+                    <hr>
+                </header>
+                <div class="inline-company__content">
+                    <div class="inline-company__body">
+                        <p>تعتبر شركة ايفست من شركات التداول التي تقدم خدماتها في منطقة الشرق الأوسط ودول الخليج مع
+                            اهتمام كبير في تقديم خدمات تداول الأسهم بحسابات مميزة خالية من العمولات والروافع المالية عند
+                            طلب ذلك تفعيل ذلك للمتداول المتمرس بجانب تقديم ادوات مالية عديدة بجانب الأسهم مثل العملات
+                            الرقمية، العملات الأجنبية وتداول المعادن الثمينة.</p>
+                    </div>
+                    <div class="inline-company__features d-flex my-5">
+                        <div class="inline-company__item">
+                            <h4>الميزات</h4>
+                            <ul class="feature-list pros">
+                                <li>حسابات بنكية محلية في السعودية</li>
+                                <li>مدراء حسابات ودورات تدريبية</li>
+                                <li>أكاديمية تداول متقدمة جداً</li>
+                            </ul>
+                        </div>
+                        <div class="inline-company__item ms-5">
+                            <h4>العيوب</h4>
+                            <ul class="feature-list cons">
+                                <li>ترخيص دولي فقط</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <footer class="inline-company__footer my-5">
+                    <p class="byline"><svg width="24" height="25" viewBox="0 0 24 25" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <path
+                                d="M22 11.3432V12.2632C21.9988 14.4197 21.3005 16.5179 20.0093 18.2451C18.7182 19.9722 16.9033 21.2357 14.8354 21.8471C12.7674 22.4586 10.5573 22.3851 8.53447 21.6378C6.51168 20.8905 4.78465 19.5093 3.61096 17.7003C2.43727 15.8913 1.87979 13.7513 2.02168 11.5996C2.16356 9.44781 2.99721 7.39957 4.39828 5.76032C5.79935 4.12107 7.69279 2.97863 9.79619 2.50339C11.8996 2.02816 14.1003 2.24558 16.07 3.12325"
+                                stroke="#0AA435" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            </path>
+                            <path d="M22 4.26324L12 14.2732L9 11.2732" stroke="#0AA435" stroke-width="2"
+                                stroke-linecap="round" stroke-linejoin="round"></path>
+                        </svg><span>سجل الآن عبر يقين وطالب ببونص يصل الى 20% على الايداع الأول</span></p>
+                    <p class="inline-company__cta"><a href="javascript:void(0);"
+                            onclick="if (!window.__cfRLUnblockHandlers) return false; showPopup(`ايفست Evest`)"
+                            rel="nofollow" class="font-weight-bold">فتح حساب مع ايفست Evest</a></p>
+                </footer>
+            </div>
+        </div>
+
+        <div class="row">
+            <h1 class="Hero-h1 my-5">الاسئلة الاكثر تكرارا</h1>
+            <div>
+                <div class="accordion" id="accordionExample">
+
+                    <div class="accordion-item my-4">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                لماذا من الضروري أن يكون لديك وسيط؟
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p>هناك حاجة إلى وسطاء لأن أسواق الأوراق المالية لن تقبل إلا الطلبات من
+                                    أعضاء
+                                    البورصة - حيث يقوم الوسطاء بترتيب المعاملات بين المشتري والبائع. إنهم
+                                    يحصلون على
+                                    عمولة بعد تنفيذ الصفقة (على الرغم من أنهم يختارون في بعض الأحيان تخفيض
+                                    أو حتى
+                                    إلغاء الرسوم لبعض منتجات التداول).</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item my-4">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                ما الذي تبحث عنه في الوسيط؟
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p>That's so cute. Can we have Bender Burgers again? Is the Space Pope
+                                    reptilian!? I wish! It's a nickel. Bender! Ship! Stop bickering or I'm
+                                    going
+                                    to come back there and change your opinions manually!</p>
+                                <p><strong>Example: </strong>Okay, I like a challenge. Is that a cooking
+                                    show?
+                                    No argument here.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item my-4">
+                        <h2 class="accordion-header" id="headingThree">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                كيف تختار الوسيط؟
+                            </button>
+                        </h2>
+                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p>As I have explained in my book 'Earth in the Balance', and the much more
+                                    popular 'Harry Potter and the Balance of Earth', we need to defend our
+                                    planet against pollution. Also dark wizards. Fry, you can't just sit
+                                    here in
+                                    the dark listening to classical music.</p>
+                                <p><strong>Example: </strong>Actually, that's still true. Well, let's just
+                                    dump
+                                    it in the sewer and say we delivered it.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
     </div>
 @endsection
 
