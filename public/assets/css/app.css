@@ -150,7 +150,7 @@ th {
 	height: 100%;
 	margin-top: 40px;
 	margin-bottom: 0px;
-	margin-right: 200px
+	margin-right: 220px
 }
 
 .page-content {
@@ -920,6 +920,12 @@ input::placeholder {
 	.popup {
 		position: fixed;
 		left: 0%;
+	}
+	.page-wrapper {
+		height: 100%;
+		margin-top: 40px;
+		margin-bottom: 0px;
+		margin-right: 300px
 	}
 }
 
